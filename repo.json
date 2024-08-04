@@ -1,0 +1,16 @@
+[{
+  "Name": "dartfmt",
+  "Description": "Dart language support, formatter and linter (dartfmt)",
+  "Tags": ["dart", "dartlang", "format", "linting"],
+  "Website": "https://github.com/plinkr/micro-dartfmt",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "Url": "https://github.com/plinkr/micro-dartfmt/archive/v0.1.0.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]
+
